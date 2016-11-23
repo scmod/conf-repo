@@ -1,5 +1,5 @@
 dataSource:
-  url:hehe-dev.com
-  pwd:devpwd
+  url: hehe-dev.com
+  pwd: devpwd
   charset:
-    zh:ohoho
+    zh: ohoho
