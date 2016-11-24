@@ -3,3 +3,5 @@ dataSource:
   pwd: devpwd
   charset:
     zh: ohoho
+mapdb:
+  file: map-dev.db

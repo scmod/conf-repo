@@ -3,3 +3,5 @@ dataSource:
   pwd: nonono
   charset:
     zh: cn
+mapdb:
+  file: map.db
