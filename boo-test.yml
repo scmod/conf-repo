@@ -1,0 +1,7 @@
+dataSource:
+  url: hehe-dev.com
+  pwd: devpwd
+  charset:
+    zh: ohoho
+mapdb:
+  file: map-test.db
