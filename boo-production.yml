@@ -1,0 +1,7 @@
+dataSource:
+  url: hehe-production.com
+  pwd: ppppproductionnnnn
+  charset:
+    zh: 31321Èõ2·Ö
+mapdb:
+  file: map-production.db
