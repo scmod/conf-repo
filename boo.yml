@@ -1,0 +1,7 @@
+dataSource:
+  url: hehe.com
+  pwd: nonono
+  charset:
+    zh: cn
+mapdb:
+  file: map.db
