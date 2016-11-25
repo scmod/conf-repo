@@ -4,4 +4,4 @@ dataSource:
   charset:
     zh: ohoho
 mapdb:
-  file: map-devTQQQ.db
+  file: map-dev.db
