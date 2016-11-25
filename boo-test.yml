@@ -4,4 +4,4 @@ dataSource:
   charset:
     zh: e23e32
 mapdb:
-  file: map-test.db
+  file: map-test110.db
