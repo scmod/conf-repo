@@ -1,7 +1,7 @@
 dataSource:
-  url: hehe-test.com
-  pwd: tttt
+  url: hehe-test.com111
+  pwd: tttt1111
   charset:
-    zh: e23e32
+    zh: 1111
 mapdb:
   file: map-test110.db
